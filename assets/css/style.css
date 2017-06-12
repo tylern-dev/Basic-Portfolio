@@ -7,6 +7,7 @@ body{
 
 h1, h2, h3 {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-weight: bold;
 }
 
 header{
@@ -53,7 +54,16 @@ header{
 	clear:both;
 }
 
+.section-heading{
+	color: rgb(74,170,165);
+	font-size: 28px;
+	padding:40px;
+	border-bottom: 4px solid rgb(204,204,204);
+	margin-bottom: 20px;
+}
+
 .image{
+	margin-right: 10px;
 	float: left;
 }
 
