@@ -131,6 +131,22 @@ header{
 	padding:3px;
 }
 
+.contact-form{
+	color: rgb(74,170,165);
+	display: block;
+}
+
+.form-label{
+	display:block;
+	margin-bottom: 20px;
+	/*float: left;*/
+}
+
+.form-input{
+	display: block;
+	position: relative;
+	width:100%;
+}
 
 /***********************/
 
