@@ -155,7 +155,51 @@ textarea.form-input{
 	max-width: 100%;
 }
 
+.form-submit{
+	height: 40px;
+	width: 120px;
+	background-color: rgb(74,170,165);
+	border-style: none;
+}
+.form-submit:hover{
+	background-color:blue;
+}
+
 /***********************/
+
+
+/*****PORTFOLIO PAGE******/
+
+.portfolio-img{
+	height:200px;
+	width: 270px;
+	float:left;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.right-col{
+	margin-left: 50px;
+}
+
+.img-text{
+	position: absolute;
+	text-align: center;
+	top: 120px;
+	left: 0;
+	width:100%;
+	background-color: rgb(74,170,165);
+	font-size: 20px;
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px; 
+
+}
+
+
+
+
+/****************************/
 
 /*****FOOTER*****/
 
