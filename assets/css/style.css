@@ -160,9 +160,10 @@ textarea.form-input{
 	width: 120px;
 	background-color: rgb(74,170,165);
 	border-style: none;
+	color: #fff;
 }
 .form-submit:hover{
-	background-color:blue;
+	background-color:rgb(102,102,102);
 }
 
 /***********************/
@@ -179,7 +180,7 @@ textarea.form-input{
 }
 
 .right-col{
-	margin-left: 50px;
+	float:right;
 }
 
 .img-text{
