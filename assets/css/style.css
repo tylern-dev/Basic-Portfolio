@@ -197,6 +197,10 @@ textarea.form-input{
 
 }
 
+.portfolio-img:hover{
+	opacity: .5;
+}
+
 
 
 
